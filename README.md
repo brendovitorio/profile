@@ -1,4 +1,4 @@
-### Olá! Eu me chamo Bryan Santti mais conhecido como NotryTv!
+### Olá! Eu me chamo Bryan Santti mais conhecido como Santti!
 - 📫 Me Contacte No E-Mail: santti@buziosgroup.online
 
 <!-- Programming languages -->
