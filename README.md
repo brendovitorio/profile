@@ -20,5 +20,5 @@
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
 ### Últimos projetos:
-- [Desenvolvendo servidor MTA RP](https://youtube.com/@SANTTIMTA)<br/>
+- [AntiCheat MTA](https://discord.gg/erxaH9AbVh)<br/>
 
