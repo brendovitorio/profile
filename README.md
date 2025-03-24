@@ -18,5 +18,5 @@
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
 ### Últimos projetos:
-- [AntiCheat MTA]([https://discord.gg/erxaH9AbVh](https://github.com/santtiwwp/AC))<br/>
+- [AntiCheat MTA](https://github.com/santtiwwp/AC)<br/>
 
