@@ -1,8 +1,8 @@
-## Olá! Eu sou o Bryan Santti 🖐️
+## Olá! Eu me chamo Brendo Vitorio 🖐️
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/santti.wwp)
 
-## Tecnologias que eu uso no meu dia
+## Tecnologias que eu mais uso no dia a dia
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -19,4 +19,5 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 
 ### Últimos projetos:
 - [AntiCheat MTA](https://github.com/santtiwwp/AC)<br/>
+- [TulipBrowser Navegador 100%br (participação)]([https://github.com/santtiwwp/AC](https://github.com/brendovitorio/TulipBrowser))<br/>
 
