@@ -19,5 +19,5 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 
 ### Últimos projetos:
 - [AntiCheat MTA](https://github.com/santtiwwp/AC)<br/>
-- [TulipBrowser Navegador 100%br (participação)]([https://github.com/santtiwwp/AC](https://github.com/brendovitorio/TulipBrowser))<br/>
+- [TulipBrowser Navegador 100%br (participação)](https://github.com/brendovitorio/TulipBrowser)<br/>
 
