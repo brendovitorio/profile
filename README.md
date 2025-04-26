@@ -18,6 +18,7 @@
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
 ### Últimos projetos:
+- [Lista de Tarefas (To-do List)](https://github.com/brendovitorio/Lista-de-Tarefas)<br/>
 - [AntiCheat MTA](https://github.com/santtiwwp/AC)<br/>
 - [TulipBrowser Navegador 100%br (participação)](https://github.com/brendovitorio/TulipBrowser)<br/>
 
